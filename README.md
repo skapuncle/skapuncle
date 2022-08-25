@@ -42,6 +42,20 @@ I am a student from 21 School <img src="https://media.giphy.com/media/WUlplcMpOC
 ### :fire: My Stats :
 
 <!--START_SECTION:waka-->
+
+```text
+From: 02 May 2020 - To: 24 August 2022
+
+Total Time: 30 hrs 35 mins
+
+Markdown     8 hrs 5 mins    >>>>>>>------------------   26.44 %
+JavaScript   7 hrs 1 min     >>>>>>-------------------   22.95 %
+HTML         6 hrs 11 mins   >>>>>--------------------   20.22 %
+CSS          3 hrs 10 mins   >>>----------------------   10.36 %
+C            2 hrs 4 mins    >>-----------------------   06.76 %
+Bash         1 hr 55 mins    >>-----------------------   06.28 %
+```
+
 <!--END_SECTION:waka-->
 
 
