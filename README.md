@@ -40,6 +40,11 @@ I am a student from 21 School <img src="https://media.giphy.com/media/WUlplcMpOC
 ---
 
 ### :fire: My Stats :
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skapuncle)](https://github.com/anuraghazra/github-readme-stats)
  <!-- <img src="" title="" **alt="" width="40" height="40"/> -->
 <!--
