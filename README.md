@@ -44,16 +44,16 @@ I am a student from 21 School <img src="https://media.giphy.com/media/WUlplcMpOC
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 May 2020 - To: 04 December 2022
+From: 02 May 2020 - To: 05 December 2022
 
-Total Time: 61 hrs 55 mins
+Total Time: 62 hrs 14 mins
 
-C                13 hrs 10 mins  >>>>>--------------------   21.27 %
-Markdown         8 hrs 27 mins   >>>----------------------   13.65 %
-Python           7 hrs 28 mins   >>>----------------------   12.08 %
-JavaScript       7 hrs 1 min     >>>----------------------   11.34 %
-HTML             6 hrs 24 mins   >>>----------------------   10.36 %
-Java             5 hrs 56 mins   >>-----------------------   09.58 %
+C                13 hrs 27 mins  >>>>>--------------------   21.62 %
+Markdown         8 hrs 27 mins   >>>----------------------   13.58 %
+Python           7 hrs 28 mins   >>>----------------------   12.01 %
+JavaScript       7 hrs 1 min     >>>----------------------   11.28 %
+HTML             6 hrs 24 mins   >>>----------------------   10.30 %
+Java             5 hrs 56 mins   >>-----------------------   09.53 %
 ```
 
 <!--END_SECTION:waka-->
