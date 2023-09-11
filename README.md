@@ -44,9 +44,9 @@ I am a student from 21 School <img src="https://media.giphy.com/media/WUlplcMpOC
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 May 2020 - To: 09 September 2023
+From: 02 May 2020 - To: 10 September 2023
 
-Total Time: 113 hrs 36 mins
+Total Time: 113 hrs 37 mins
 
 C                          24 hrs 32 mins  >>>>>--------------------   21.61 %
 Markdown                   16 hrs 38 mins  >>>>---------------------   14.65 %
