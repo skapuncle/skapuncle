@@ -46,7 +46,7 @@ I am a student from 21 School <img src="https://media.giphy.com/media/WUlplcMpOC
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 May 2020 - To: 29 March 2024
+From: 02 May 2020 - To: 30 March 2024
 
 Total Time: 203 hrs 38 mins
 
