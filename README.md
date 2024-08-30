@@ -46,15 +46,15 @@ I am a student from 21 School <img src="https://media.giphy.com/media/WUlplcMpOC
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 May 2020 - To: 28 August 2024
+From: 02 May 2020 - To: 29 August 2024
 
-Total Time: 387 hrs 24 mins
+Total Time: 388 hrs 52 mins
 
-Go                         225 hrs 26 mins >>>>>>>>>>>>>>>----------   58.19 %
-Markdown                   38 hrs 9 mins   >>-----------------------   09.85 %
-C                          28 hrs          >>-----------------------   07.23 %
-SQL                        27 hrs 32 mins  >>-----------------------   07.11 %
-C++                        10 hrs 30 mins  >------------------------   02.71 %
+Go                         226 hrs 22 mins >>>>>>>>>>>>>>>----------   58.21 %
+Markdown                   38 hrs 28 mins  >>-----------------------   09.89 %
+C                          28 hrs          >>-----------------------   07.20 %
+SQL                        27 hrs 34 mins  >>-----------------------   07.09 %
+C++                        10 hrs 30 mins  >------------------------   02.70 %
 ```
 
 <!--END_SECTION:waka-->
