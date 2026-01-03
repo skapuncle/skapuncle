@@ -48,12 +48,12 @@ I am a student from 21 School <img src="https://media.giphy.com/media/WUlplcMpOC
 ```txt
 From: 02 May 2020 - To: 02 January 2026
 
-Total Time: 759 hrs 35 mins
+Total Time: 763 hrs 14 mins
 
-Go                         513 hrs 30 mins >>>>>>>>>>>>>>>>>--------   67.60 %
-SQL                        59 hrs 1 min    >>-----------------------   07.77 %
-Markdown                   53 hrs 52 mins  >>-----------------------   07.09 %
-C                          28 hrs          >------------------------   03.69 %
+Go                         516 hrs 31 mins >>>>>>>>>>>>>>>>>--------   67.67 %
+SQL                        59 hrs 14 mins  >>-----------------------   07.76 %
+Markdown                   53 hrs 57 mins  >>-----------------------   07.07 %
+C                          28 hrs          >------------------------   03.67 %
 C++                        10 hrs 30 mins  -------------------------   01.38 %
 ```
 
